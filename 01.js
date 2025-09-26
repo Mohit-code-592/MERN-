@@ -1,0 +1,13 @@
+console.log("------ STUDENT BIODATA ------");
+console.log("Name: Mohit Kumar");
+console.log("Age: 20");
+console.log("Gender: Male");
+console.log("Course: BCA");
+console.log("College: LCET College");
+console.log("Email: mohit@.com");
+console.log("Phone: +91-9876543210");
+console.log("Address: chandigarh");
+console.log("Hobbies: Coding, Music, cricket");
+console.log("Skills: HTML, CSS, JavaScript , python");
+console.log("Objective: To become a Full Stack Developer");
+console.log("-----------------------------");
